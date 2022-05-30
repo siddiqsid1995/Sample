@@ -12,6 +12,12 @@ public class Sample {
 
 		System.out.println(98745);
 
+		System.out.println("Python");
+
+		int a = 10;
+
+		System.out.println(a);
+
 	}
 
 }
