@@ -7,6 +7,11 @@ public class Sample {
 		System.out.println("java");
 
 		System.out.println(1234);
+
+		System.out.println("Selenium");
+
+		System.out.println(98745);
+
 	}
 
 }
